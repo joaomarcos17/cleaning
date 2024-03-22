@@ -74,9 +74,7 @@
  }
 }
     /* end of section*/
-/*      main {
-       margin-top: 6rem;
-     } */
+
     img{
        width: 100%;
      }
@@ -216,7 +214,7 @@ header{
   position: fixed;
   top: 0;
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
        
 
 }
@@ -271,13 +269,6 @@ header{
       font-size: 20px;
   }
 }
-/* main {
-
-    margin-top: 4rem; 
- 
- 
-  
-} */
 
 .fa-bars{
   font-size: 20px;
@@ -539,9 +530,7 @@ display: none;
 }
 }
                                           /*main section*/
-/* main {
-   margin-top: 4rem;
-} */
+
 .announcements {
 
     margin: 3rem;
