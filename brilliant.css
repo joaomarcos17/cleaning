@@ -74,9 +74,9 @@
  }
 }
     /* end of section*/
-     main {
+/*      main {
        margin-top: 6rem;
-     }
+     } */
     img{
        width: 100%;
      }
@@ -269,13 +269,13 @@ header{
       font-size: 20px;
   }
 }
-main {
+/* main {
 
     margin-top: 4rem; 
  
  
   
-}
+} */
 
 .fa-bars{
   font-size: 20px;
@@ -537,9 +537,9 @@ display: none;
 }
 }
                                           /*main section*/
-main {
+/* main {
    margin-top: 4rem;
-}
+} */
 .announcements {
 
     margin: 3rem;
